@@ -10,9 +10,3 @@ Most exciting/interesting find
 -	Yes….but actually no. Preliminary data shows little disparity between lighter and darker skin types. Type VI actually had highest accuracy for 5 of 6 experiments
 -	However, after more digging, this is likely due to a small data set with a label imbalance
 -	Could be remedied by (1) more hand labeled data or (2) data augmentation (which we tried and got promising results in terms of reducing disparities, but needs to be explored further)
-
-
-
-
-
-![image](https://user-images.githubusercontent.com/59719050/212956792-805c8990-74dc-4cde-8757-c5c1851f38cc.png)
